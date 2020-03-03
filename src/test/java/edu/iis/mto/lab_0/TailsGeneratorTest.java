@@ -1,12 +1,12 @@
 package edu.iis.mto.lab_0;
 
-import static org.hamcrest.MatcherAssert.assertThat;
-
-import java.util.List;
-
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import java.util.List;
+
+import static org.hamcrest.MatcherAssert.assertThat;
 
 class TailsGeneratorTest {
 
